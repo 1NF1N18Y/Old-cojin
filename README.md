@@ -17,7 +17,7 @@ Info
 ====
 Website: Comming Soon!
 
-Block Explorer: 51.89.138.238:3001
+Block Explorer: http://51.89.138.239:3001/
 
 ---------------
 Official Pools:

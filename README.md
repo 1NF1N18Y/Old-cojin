@@ -19,6 +19,9 @@ Website: Comming Soon!
 
 Block Explorer: 51.89.138.238:3001
 
+You can contact me on Discord:
+1NF1N18Y#8090
+
 ---------------
 Official Pools:
 

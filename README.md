@@ -28,7 +28,7 @@ Official Pools:
 
 https://pool.cryptoverse.eu/
 
-More Pools Comming Soon!
+More Pools Coming Soon!
 ------------------------------------------------------------------------
 Contact info
 -------

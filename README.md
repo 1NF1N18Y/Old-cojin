@@ -19,18 +19,23 @@ Website: Comming Soon!
 
 Block Explorer: 51.89.138.238:3001
 
-------------------------------------------------------------------------
-Contact info:
-
-Discord: 1NF1N18Y#8090
-
 ---------------
 Official Pools:
 
 https://pool.cryptoverse.eu/
 
 More Pools Comming Soon!
------------------------------
+------------------------------------------------------------------------
+Contact info
+-------
+Contact info:
+
+Email : 1nf1n19y@gmail.com
+
+Discord: 1NF1N18Y#8090
+
+---------------
+
 
 
 

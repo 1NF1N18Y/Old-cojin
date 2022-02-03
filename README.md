@@ -21,6 +21,8 @@ Website: Comming Soon!
 
 Block Explorer: http://51.89.138.239:3001/
 
+Discord Server: https://discord.gg/QtX95PG7Ce
+
 ---------------
 Official Pools:
 

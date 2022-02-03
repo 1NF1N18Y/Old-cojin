@@ -1,5 +1,7 @@
 Cojin
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WALLET WILL BE AVAILABLE IN 1~3 HOURS! 2/3/2022
+-----------------
 What is Cojin?
 
 Cojin is a decentralized currency. Decentralized currency refers to bank-free methods of transferring wealth or ownership of any other commodity without needing a third party. Cojin is a fork of litecoin.

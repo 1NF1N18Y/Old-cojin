@@ -27,9 +27,7 @@ Discord Server: https://discord.gg/QtX95PG7Ce
 ---------------
 Official Pools:
 
-http://pool.cojin.info:3001
-
-https://pool.cryptoverse.eu/
+https://miningpoolstats.stream/cojin
 
 More Pools Coming Soon!
 ------------------------------------------------------------------------

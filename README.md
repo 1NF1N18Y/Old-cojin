@@ -1,6 +1,7 @@
 Cojin
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 COJIN IS MOVING TO SCRYPT/POS ALGO! 
+DM or mail me so we can transfer your coins to your new wallet once the wallet is ready!
 -----------------
 What is Cojin?
 
